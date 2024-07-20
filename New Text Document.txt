@@ -1,0 +1,20 @@
+https://www.tinkercad.com/things/cwcdk9U9zzb-super-bombul-hango/editel?sharecode=-AjYEreUR2zEnjM2EV2NnfjJtB1S1-XBYNybDvgjbW4
+
+//Aprindere bec led
+
+https://www.tinkercad.com/things/8uI6cYS7OAB-utilizarea-lcd/editel?sharecode=qDb16JPw78OYeBaYMLss0aWVBmx5lGNAdYNzgRtItFI
+
+//Utilizare lcd
+
+https://www.tinkercad.com/things/9x7yAqETx9c-dazzling-duup-vihelmo/editel?sharecode=zSnT-mszHZcxG_rA_wq-0F2_mJmJAfBNPkav1r8iGZk
+
+
+//CIRCUIT 7 SEGMENTE
+
+https://www.tinkercad.com/things/eNcdl2dIQG1-test1/editel?sharecode=57fr_KWVY9dBYE-iv_W_fSYIQqL_7B6hvl0XruPQWqU
+//tastatura
+
+https://www.tinkercad.com/things/gpDJqDgxufq-copy-of-isr-intreruperi/editel?sharecode=1QPvB_ZwU_0vndlK3S_yiE-VmfAP8gX3Gr5YpuRsOeU
+
+//utilizare butoane+ISR intreruperi
+
